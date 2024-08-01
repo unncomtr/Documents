@@ -4,7 +4,7 @@
 
 ### Licensor: unn.com.tr ve Oyrut.com.tr
 ### E-posta: oyruttr@gmail.com
-### Geçerlilik Tarihi: 15 Temmuz 2024 tarihinden itibaren ömür boyu geçerlidir.
+### Geçerlilik Tarihi: 1 Ağustos 2024 tarihinden itibaren ömür boyu geçerlidir.
 
 ## Lisans Koşulları
 
